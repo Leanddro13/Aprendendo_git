@@ -1,3 +1,4 @@
 git init -> serve para criar um repositorio do git em algum local de sua escolha
 segunda versão:
     git commit -m "foi adicionada essas duas novas linhas"
+Staging -> ssa branch, não esta indo para a branch master(principal)
