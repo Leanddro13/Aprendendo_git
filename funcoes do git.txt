@@ -1,0 +1,16 @@
+# git init -> serve para criar um repositorio em algum local
+# git add -> vai adicionar um arquivo
+# git add . -> vai adicionar vários arquivos de uma só vez
+# git status -> Vai mostrar a situação do arquivo, se ja foi ou não adicionado ou se foi atualizado
+# git commit -m "texto" -> para adicionar o arquivo no git hub
+# git branch -M "texto" -> serve para renomear o titulo da branch
+# git config --global user.email "email" -> serve para adicionar o seu email do git hub
+# git config --global user.name "nome" -> serve para adicionar o seu nome
+# git remote sdd origin https://github.com/Leanddro13/Aprendendo_git -> decidindo para qual commit enviar os arquivos
+# git push -> enviar para a branch escolhida -> git push --set-upstream origin master
+# git reflog -> Mostra o historico das versões dos arquivos adicionados
+# quer voltar para uma versão antiga? use o git reset --hard 'codigo da versão que você quer voltar pelo git reflog
+# quer voltar para a versão atual? use novamente o reflog, pegue o codigo da versão atual e utilize git reset hard
+# git branch staging -> para criar um novo branch
+# git checkout staging -> para mudar de uma branch para outra
+# git merge staging -> vai mostar as alterações feitas no branch alternativo que no caso é o staging
