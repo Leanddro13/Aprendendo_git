@@ -1,0 +1,1 @@
+git init -> serve para criar um repositorio do git em algum local de sua escolha
